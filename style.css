@@ -1,0 +1,37 @@
+header{
+    background-color: rgb(45, 44, 44);
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+header ol{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+header ol li a{
+    color: white;
+    text-decoration: none;
+}
+
+section{
+    background-color: rgb(231, 229, 229);
+    width: 60%;
+    margin: auto;
+    padding: 20px 15px;
+   /* border: 1px solid; */
+   margin-top: 20px;
+   border-radius: 10px;
+}
+
+footer{
+    background-color: rgb(45, 44, 44);
+    color: white;
+    padding: 5px;
+    text-align: center;
+    margin-top: 20px;
+}
+
