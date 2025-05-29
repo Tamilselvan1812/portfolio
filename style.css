@@ -18,7 +18,7 @@ header ol li a{
 }
 
 section{
-    background-color: rgb(231, 229, 229);
+    background-color: rgb(220, 211, 211);
     width: 60%;
     margin: auto;
     padding: 20px 15px;
@@ -26,6 +26,7 @@ section{
    margin-top: 20px;
    border-radius: 10px;
    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+
 }
 
 footer{
